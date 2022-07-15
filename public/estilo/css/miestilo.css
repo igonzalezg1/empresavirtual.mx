@@ -1,0 +1,31 @@
+.titulop
+{
+    font-size: 36px;
+    font-family: 'Candara Light';
+    text-align: center;
+    -webkit-box-shadow: 11px 20px 19px -20px rgba(0,0,0,0.78);
+    margin-bottom: 50px;
+}
+
+.imgprincipal
+{
+    display:block;
+    margin:auto;
+}
+
+.textop
+{
+    font-size: 25px;
+    font-family: 'Arial';
+}
+
+.espaciobar
+{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.botonenl
+{
+    display: inline-block;
+}
